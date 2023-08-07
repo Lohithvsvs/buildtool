@@ -14,7 +14,7 @@ void fibonacci(int n) {
     printf("\n");
 }
 
-int main() {
+int fibonacci() {
     int numTerms;
 
     printf("Enter the number of terms: ");
